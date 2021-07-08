@@ -13,10 +13,8 @@
 </p>
 <p align="center">
 <a href="https://www.facebook.com/kangkebun.kangkebun"><img title="Facebook" src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=Facebook"></a>
-
-</p>
-<p align="center">
 <a href="https://github.com/Lody-Tambak"><img title="Github" src="https://img.shields.io/badge/Kang-Kebun__-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://www.instagram.com/lodytambak/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
 ## About Tool :
 bot-wa is one of the unique tools of all tools, which can be used outside the termux application </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20px">
