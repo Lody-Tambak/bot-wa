@@ -8,7 +8,7 @@
 <a href=""><img title="Tools In Indo" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href=""><img title="Tools In Indo" src="https://img.shields.io/badge/Maintained%3F-Yes-green.svg"></a>
 
-![20210708_150959](https://user-images.githubusercontent.com/79711216/124887176-22e4b300-dfff-11eb-96f9-2bbd5aaff4ed.png)
+  ![20210708_155519](https://user-images.githubusercontent.com/79711216/124894725-1d3e9b80-e006-11eb-87f7-f2b301abb6f0.png)
 
 </p>
 <p align="center">
