@@ -1,8 +1,10 @@
-## <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px"> Hey Wellcome
+## Hey Wellcome </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> 
+
+bot-wa adalah salah satu tools unik dari semua tools, yang bisa digunakan di luar aplikasi termux </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="30px">
 
 <p align="center"><img src="https://user-images.githubusercontent.com/79711216/124872731-d34abb00-dfef-11eb-8843-384199bb630f.gif" alt="Bt">
 
-## INSTALL IN [Termux] :
+## Termux [ </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px"> ] :
 
 * `termux-setup-storage`
 * `apt update -y`
