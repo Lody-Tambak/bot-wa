@@ -5,7 +5,7 @@ bot-wa is one of the unique tools of all tools, which can be used outside the te
 <p align="center"><img src="https://user-images.githubusercontent.com/79711216/124872731-d34abb00-dfef-11eb-8843-384199bb630f.gif" alt="Bt">
 
 ## Tools First
-This is my first tool so please don't be bullied
+* This Is My First Tool So Please Don't Be Bullied
 
 ## Only Available At : 
 * Termux
