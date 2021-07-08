@@ -17,5 +17,3 @@ git clone https://github.com/Lody-Tambak/bot-wa
 * `cd bot-wa`
 * `bash install.sh`
 * `npm start`
-
-## That is all and thank you
