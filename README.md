@@ -1,6 +1,6 @@
 ## Hey Wellcome </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> 
 
-bot-wa adalah salah satu tools unik dari semua tools, yang bisa digunakan di luar aplikasi termux </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="30px">
+bot-wa is one of the unique tools of all tools, which can be used outside the termux application </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20px">
 
 <p align="center"><img src="https://user-images.githubusercontent.com/79711216/124872731-d34abb00-dfef-11eb-8843-384199bb630f.gif" alt="Bt">
 
