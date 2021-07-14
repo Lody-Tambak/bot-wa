@@ -22,7 +22,7 @@ bot-wa adalah salah satu Tools unik dari semua Tools, yang dapat digunakan di lu
 <p align="center"><img src="https://user-images.githubusercontent.com/79711216/124872731-d34abb00-dfef-11eb-8843-384199bb630f.gif" alt="Bt">
 
 ## Tools Pertama
-* Ini Alat Pertama Saya Jadi Tolong Jangan DiBully
+* Ini Tools Pertama Saya Jadi Tolong Jangan DiBully
 
 ## Telah Dicoba : 
 * Termux
