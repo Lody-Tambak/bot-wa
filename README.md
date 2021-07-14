@@ -16,16 +16,17 @@
 <a href="https://github.com/Lody-Tambak"><img title="Github" src="https://img.shields.io/badge/Kang-Kebun__-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.instagram.com/lodytambak/"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
 
-## About Tool :
-bot-wa is one of the unique tools of all tools, which can be used outside the termux application </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20px">
+## Tools :
+bot-wa adalah salah satu Tools unik dari semua Tools, yang dapat digunakan di luar aplikasi termux </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="20px">
 
 <p align="center"><img src="https://user-images.githubusercontent.com/79711216/124872731-d34abb00-dfef-11eb-8843-384199bb630f.gif" alt="Bt">
 
-## Tools First
-* This Is My First Tool So Please Don't Be Bullied
+## Tools Pertama
+* Ini Alat Pertama Saya Jadi Tolong Jangan DiBully
 
-## Only Available At : 
+## Telah Dicoba : 
 * Termux
+
 ## Termux [ </b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px"> ] :
 
 * `termux-setup-storage`
