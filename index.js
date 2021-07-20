@@ -1451,7 +1451,7 @@ case 'addbadword':
                     wew = fs.readFileSync(`./src/logobot.jpg`)
                       lzain = `
 ╭──❲ INFO BOT ❳
-│❀ Nama: KangKebun
+│❀ Nama: chatbot
 │❀ Owner : LodyYudhaMaulana
 │❀ Prefix: 「  ${prefix}  」
 ╰────────────────⊱
@@ -1468,7 +1468,7 @@ case 'addbadword':
 ╰────────────────⊱
 ╭──❲ DEVELOPER ❳
 │❀ SC ORY : LodyYudhaMaulana
-│❀ UPDATE SC : KangKebun
+│❀ UPDATE SC : Oke
 │❀ OWNER : https://wa.me/6285875973250
 │❀ NOTE : JANGAN UBAH LIST INI !!
 │❀ BIARIN AJA BIAR TAU UPDATE SC !!
@@ -1745,10 +1745,6 @@ case 'addbadword':
 │❀ penambahan Layout Keren
 ╰────────────────⊱
 ╭──>
-╰────────────────⊱
-╭──
-│<Created By LodyYudhaMaulana 2021>
-│<Butuh api? Beli Jan Gratisan Mulu>
 ╰────────────────⊱
 `
 client.sendMessage(from, wew, image, { quoted: mek, caption: lzain })
